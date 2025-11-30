@@ -1,5 +1,5 @@
 # UK-Train-Rides
-Comprehensive analysis of UK National Rail data using Power BI. Focuses on operational performance, punctuality vs. PPM, delay root causes, and revenue analysis. Developed as part of the team training under the Digital Egypt Builders Initiative (DEPI) in Data Analysis.
+Comprehensive analysis of UK National Rail data using Power BI. Focuses on operational performance, punctuality vs. PPM, delay root causes, and revenue analysis. Developed as part of the team training under the Digital Egypt Pioneers Initiative (DEPI) in Data Analysis.
 # UK National Rail Performance & Revenue Analysis
 
 This project is a detailed data analysis initiative developed by the team as part of the **Digital Egypt Builders Initiative (DEPI)** Data Analysis track training. The objective is to utilize Power BI to transform raw transaction data into actionable business intelligence.
