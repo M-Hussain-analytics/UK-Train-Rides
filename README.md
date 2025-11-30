@@ -50,6 +50,7 @@ The following limitations should be considered when interpreting the results:
 * **External Factors:** The dataset’s scope limits the ability to correlate performance with broader external variables (e.g., macroeconomic conditions, competitor performance).
 
 ## 6. Dashboard Sample
+![Revenue](https://github.com/user-attachments/assets/ef1ef819-79ff-45f0-8a03-3af42b46304d)
 
 ## 7. Conclusion
 
